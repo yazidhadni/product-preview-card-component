@@ -39,3 +39,19 @@ footer {
   width: 100%;
   text-align: center;
 }
+
+@media (max-width: 699px) {
+  
+  body {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+   button {
+    width: 100%;
+   }
+
+  footer {
+    top: 730px;
+  }
+
+}
